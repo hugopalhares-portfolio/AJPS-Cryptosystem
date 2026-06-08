@@ -1,0 +1,2 @@
+# Only third-party dependency; secrets, random, math, time are stdlib.
+matplotlib>=3.5
