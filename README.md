@@ -1,7 +1,6 @@
 # The Mersenne Number Public-Key Cryptosystem (AJPS)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-notebook-orange)
 ![Topic](https://img.shields.io/badge/topic-post--quantum%20cryptography-7b3fe4)
 
 A from-scratch implementation and analysis of the post-quantum public-key
