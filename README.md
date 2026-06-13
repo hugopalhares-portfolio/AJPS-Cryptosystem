@@ -53,7 +53,7 @@ analyses its correctness, security and performance.
 ## Running it
 
 ```bash
-git clone https://github.com/<your-username>/ajps-mersenne-cryptosystem.git
+git clone https://github.com/hugopalhares-portfolio/AJPS-Cryptosystem.git
 cd ajps-mersenne-cryptosystem
 pip install -r requirements.txt
 jupyter notebook ajps_cryptosystem.ipynb
